@@ -8,26 +8,28 @@ This repository provides reusable templates to support a consistent and structur
 
 ## Repository Contents
 
-- onboarding checklist
-- index and sourcetype template
-- sample onboarding request
-- usage disclaimer
+* onboarding checklist
+* index and sourcetype template
+* sample onboarding request
+* contribution guidelines
+* configuration examples
 
 ## Typical Use Cases
 
-- onboarding new application or infrastructure logs
-- documenting source ownership and expected data flow
-- standardizing intake requirements
-- improving validation before production onboarding
+* onboarding new application or infrastructure logs
+* documenting source ownership and expected data flow
+* standardizing intake requirements
+* improving validation before production onboarding
+
+## Additional Examples
+
+This repository includes sample configuration snippets such as props and transforms examples to support log parsing and field extraction.
 
 ## Notes
 
-All examples in this repository are generic and sanitized. They do not contain any internal company information, production endpoints, credentials, or environment-specific configurations.
+All examples in this repository are generic and sanitized.
+They do not contain any internal company information, production endpoints, credentials, or environment-specific configurations.
 
 ## License
 
 MIT
-
-## Additional Examples
-
-This repository also includes sample configuration snippets such as props and transforms examples to support log parsing and field extraction.
