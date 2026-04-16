@@ -26,4 +26,8 @@ All examples in this repository are generic and sanitized. They do not contain a
 
 ## License
 
+## Additional Examples
+
+This repository also includes sample configuration snippets such as props and transforms examples to support log parsing and field extraction.
+
 MIT
