@@ -33,3 +33,7 @@ They do not contain any internal company information, production endpoints, cred
 ## License
 
 MIT
+
+---
+
+_Last updated: April 2026_
